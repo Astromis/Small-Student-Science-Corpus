@@ -11,9 +11,10 @@ This Russian corpus is annotated in the way to investigate the paragraph segment
 * <en></en> English abstract(TBD).
 * <l><l> list lines (TBD)
 
+Corpus contains 24210 paragraphs (including lists as a paragraph)
 ## TODO list
 
 - [ ] Add new tags
 - [ ] Provide a corpus statistic
 - [ ] Provide a script for dividing corpus on train and test
-- [ ] Make a verification of corpus. (Pay attention on pieces of corpus where text flows like symbol stream)
+- [x] Make a verification of corpus. (Pay attention on pieces of corpus where text flows like symbol stream)
